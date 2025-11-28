@@ -1,10 +1,10 @@
 <div align="center">
              <img src="docs/images/OC-Patcher.png" alt="OpenCore Patcher Logo" width="256" />
-             <h1>OpenCore Legacy Patcher For MacOS Tahoe</h1>
+             <h1>OpenCore Legacy Patcher</h1>
 </div>
 
 
-this is a fork of opencore lagacy patcher, i'm trying to maek it work with macos tahoe
+This is a fork of [OpenCore-Legacy-Patcher by Dortina](https://github.com/dortania/OpenCore-Legacy-Patcher) that will HOPEFULLY work with macOS Tahoe (26)
 
 
 
@@ -20,7 +20,7 @@ Our project's main goal is to breathe new life into Macs no longer supported by 
 
 Noteworthy features of OpenCore Legacy Patcher:
 
-* Support for macOS Big Sur, Monterey, Ventura, Sonoma and Sequoia
+* Support for macOS Big Sur, Monterey, Ventura, Sonoma, Sequoia and Tahoe(Not complete!!!)
 * Native Over the Air (OTA) System Updates
 * Supports Penryn and newer Macs
 * Full support for WPA Wi-Fi and Personal Hotspot on BCM943224 and newer wireless chipsets
